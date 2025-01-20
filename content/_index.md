@@ -8,9 +8,9 @@ weight: 1
 
 Hihi^^
 
-I'm Mirai Kumiko and I make minimalistic sites 🫸✨🫷
+I make minimalistic sites 🫸✨🫷
 
-The average price for a static site with several pages is $100.
+The price for a static site with several pages is $100.
 
 The price for more complex sites is discussed in person)
 

@@ -8,9 +8,9 @@ weight: 1
 
 Hola-hola^^
 
-Soy Mirai Kumiko y hago sitios minimalistas 🫸✨🫷
+Hago sitios minimalistas 🫸✨🫷
 
-El precio promedio de un sitio estático con varias páginas es de $100.
+El precio de un sitio estático con varias páginas es de $100.
 
 El precio de los sitios más complejos se discute en persona)
 

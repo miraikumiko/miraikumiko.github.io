@@ -32,4 +32,6 @@ weight: 1
 
 ## Галерея
 
+[Живая демонстрация](https://mk-gallery.netlify.app)
+
 ![Gallery](/images/gallery.webp "Gallery")

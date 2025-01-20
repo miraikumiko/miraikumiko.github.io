@@ -19,4 +19,4 @@ El backend se desarrolló en Python, muchas veces fue necesario reescribir el pr
 
 Desafortunadamente, la puesta en marcha resultó demasiado costosa y el negocio en sí no era rentable, por lo que tuve que posponerlo para más adelante.
 
-Ahora ofrezco mis servicios de creación de sitios web para pequeñas empresas, así que ya sabes a quién contactar^^
+Ahora ofrezco mis servicios de creación de sitios web para pequeñas empresas, así que ya sabes a quién [contactar](/contacts)^^

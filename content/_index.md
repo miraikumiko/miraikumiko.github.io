@@ -20,7 +20,7 @@ Here are my example works:
 
 [Live Demo](https://mk-beauty-salon.netlify.app)
 
-![Beauty salon](/images/beauty-salon.webp "Beauty salon")
+![Beauty Salon](/images/beauty-salon.webp "Beauty salon")
 
 ## Corp site
 
@@ -35,3 +35,9 @@ Here are my example works:
 [Live Demo](https://mk-gallery.netlify.app)
 
 ![Gallery](/images/gallery.webp "Gallery")
+
+## Link Tree
+
+[Live Demo](https://mk-link-tree.netlify.app)
+
+![Link Tree](/images/link-tree.webp "Link tree")

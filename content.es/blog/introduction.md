@@ -13,7 +13,7 @@ Hace exactamente un año comencé a trabajar en hosting VDS anónimo. Me sorpren
 
 ![Dell PowerEdge C6220](/images/server1.webp)
 
-El backend se desarrolló en Python, muchas veces fue necesario reescribir el proyecto desde cero debido a la falta de experiencia y comprensión de cuál debería ser el resultado final, pero estaba listo menos que a través del software. Aún así, no podía prescindir de una [biblioteca](https://novnc.com/info.html) JS, pero sin ella hubiera sido imposible instalar manualmente los sistemas operativos.
+El backend se desarrolló en Python, y a menudo tuvimos que reescribir el proyecto desde cero debido a la falta de experiencia y comprensión de cuál debería ser el resultado final, pero en menos de un año el software estaba listo. Aún así, no se habría podido hacer sin una [biblioteca](https://novnc.com/info.html) JS, pero sin ella, la instalación manual de sistemas operativos habría sido imposible.
 
 ![Pruebas](/images/server2.webp)
 

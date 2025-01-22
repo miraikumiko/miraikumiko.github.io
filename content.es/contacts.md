@@ -9,4 +9,3 @@ weight: 2
 * Email: murrr@macaw.me
 * Telegram: @miraikumiko
 * Instagram: @miraikumiko
-* Matrix: @miraikumiko:catgirl.cloud

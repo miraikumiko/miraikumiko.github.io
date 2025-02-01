@@ -38,8 +38,6 @@ Fianchetto – placing a bishop in the corner of the board on the central diagon
 
 Zeitnot – a situation of time pressure in chess, lack of time in a difficult position.
 
-Opposition – positioning the king in front of the opponent’s king.
-
 Zugzwang – a situation where any move worsens the position.
 
 En passant – capturing a pawn en passant when it has moved two squares near an opponent’s pawn.

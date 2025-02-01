@@ -38,8 +38,6 @@ Fianchetto – colocar un alfil en la esquina del tablero sobre la diagonal cent
 
 Zeitnot – situación de apuro de tiempo en ajedrez, falta de tiempo en una posición difícil.
 
-Oposición – colocar el rey frente al rey contrario.
-
 Zugzwang – situación en la que cualquier movimiento empeora la posición.
 
 En passant – captura de un peón al paso cuando ha movido dos casillas cerca de un peón contrario.

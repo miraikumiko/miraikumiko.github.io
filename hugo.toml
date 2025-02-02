@@ -29,21 +29,21 @@ enableRobotsTXT = true
     title = "Mirai Kumiko's website"
     languageName = "🇺🇸"
     LanguageCode = "en-US"
-    contentDir = "content"
+    contentDir = "content/en"
     [languages.en.params]
       madeWith = "Personal site"
   [languages.es]
     title = "Sitio web de Mirai Kumiko"
     languageName = "🇪🇸"
     LanguageCode = "es-ES"
-    contentDir = "content.es"
+    contentDir = "content/es"
     [languages.es.params]
       madeWith = "Sitio personal"
   [languages.ru]
     title = "Бложик Mirai Kumiko"
     languageName = "🇷🇺"
     LanguageCode = "ru-RU"
-    contentDir = "content.ru"
+    contentDir = "content/ru"
     [languages.ru.params]
       madeWith = "Персональный сайт"
 
@@ -95,5 +95,5 @@ enableRobotsTXT = true
   # email is also added to the footer of each post. You can hide the "reply to"
   # link by using a `hideReply` param in front matter.
   [params.author]
-    name = "Mirai Kumiko" # Your name as shown in the RSS feed metadata
-    email = "murrr@macaw.me" # Added to the footer so readers can reply to posts
+    name = "Mirai Kumiko"
+    email = "murrr@macaw.me"

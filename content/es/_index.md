@@ -17,7 +17,7 @@ Ya no recuerdo cuál es mi experiencia laboral(<br>
 
 Ahora diseño sitios web desde cero o uso el generador estático Hugo.
 
-El precio de un sitio estático con varias páginas es de $100.
+El precio de un sitio estático con varias páginas es de €100.
 
 El precio de los sitios más complejos se discute en persona)
 

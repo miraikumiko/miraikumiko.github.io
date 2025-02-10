@@ -10,6 +10,13 @@ Hola-hola^^
 
 Hago sitios minimalistas 🫸✨🫷
 
+Brevemente sobre mí: Administrador de sistemas, ingeniero de Linux, programador de Python, desarrollador web full-stack.
+
+Ya no recuerdo cuál es mi experiencia laboral(<br>
+~5 años
+
+Ahora diseño sitios web desde cero o uso el generador estático Hugo.
+
 El precio de un sitio estático con varias páginas es de $100.
 
 El precio de los sitios más complejos se discute en persona)

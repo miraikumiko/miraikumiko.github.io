@@ -1,5 +1,5 @@
 ---
-title: "Контакты"
+title: "Contacts"
 menu: "main"
 weight: 2
 ---

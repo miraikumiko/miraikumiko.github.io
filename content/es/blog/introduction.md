@@ -15,8 +15,10 @@ Hace exactamente un año comencé a trabajar en hosting VDS anónimo. Me sorpren
 
 El backend se desarrolló en Python, y a menudo tuvimos que reescribir el proyecto desde cero debido a la falta de experiencia y comprensión de cuál debería ser el resultado final, pero en menos de un año el software estaba listo. Aún así, no se habría podido hacer sin una [biblioteca](https://novnc.com/info.html) JS, pero sin ella, la instalación manual de sistemas operativos habría sido imposible.
 
-![Pruebas](/images/server2.webp)
+![Testing](/images/server2.webp)
 
 Desafortunadamente, la puesta en marcha resultó demasiado costosa y el negocio en sí no era rentable, por lo que tuve que posponerlo para más adelante.
+
+![Hosting](/images/hosting.webp)
 
 Ahora ofrezco mis servicios de creación de sitios web para pequeñas empresas, así que ya sabes a quién [contactar](/contacts)^^

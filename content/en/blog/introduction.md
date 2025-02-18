@@ -19,4 +19,6 @@ The backend was developed in Python, often having to rewrite the project from sc
 
 Unfortunately, the startup turned out to be too expensive and the business itself was unprofitable, so I had to put it off until later.
 
+![Hosting](/images/hosting.webp)
+
 Now I offer my services in creating websites to small businesses, so you know who to [contact](/contacts)^^

@@ -88,12 +88,11 @@ enableRobotsTXT = true
   # Social media. Delete any item you aren't using to make sure it won't show up
   # in your website's metadata.
   [params.social]
-    mastodon = "miraikumiko" # Twitter handle (without '@')
-    instagram = "miraikumiko" # Facebook Page Admin ID
+    mastodon = "miraikumiko"
 
   # Author metadata. This is mostly used for the RSS feed of your site, but the
   # email is also added to the footer of each post. You can hide the "reply to"
   # link by using a `hideReply` param in front matter.
   [params.author]
     name = "Mirai Kumiko"
-    email = "murrr@macaw.me"
+    email = "miraikumiko@disroot.org"

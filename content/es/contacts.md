@@ -7,5 +7,5 @@ weight: 2
 # Contactos
 
 * Email: [miraikumiko@disroot.org](mailto:miraikumiko@disroot.org)
-* Mastodon: [@miraikumiko@toot.cat](https://toot.cat/@miraikumiko)
+* Mastodon: [@miraikumiko@cr8r.gg](https://cr8r.gg/@miraikumiko)
 * Github: [miraikumiko](https://github.com/miraikumiko)

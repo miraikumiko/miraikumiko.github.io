@@ -17,7 +17,7 @@ I don't remember my work experience(<br>
 
 Currently I'm laying out websites from scratch or using the static generator Hugo.
 
-The price for a static site with several pages is $100.
+The price for a static site with several pages is $50.
 
 The price for more complex sites is discussed in person)
 

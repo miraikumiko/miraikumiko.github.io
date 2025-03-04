@@ -1,7 +1,7 @@
 +++
 title = "Ajedrez - La Esencia de la Estrategia en 64 Casillas"
-date = 2025-02-01
 description = "Ajedrez - La Esencia de la Estrategia en 64 Casillas"
+date = 2025-02-01
 tags = [
     "philosophy",
     "games",

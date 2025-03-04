@@ -1,7 +1,7 @@
 +++
 title = "Introduction"
-date = 2025-01-18
 description = "Introduction to myself"
+date = 2025-01-18
 tags = [
     "me"
 ]

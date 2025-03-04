@@ -1,7 +1,7 @@
 +++
 title = "Chess - The Essence of Strategy in 64 Squares"
-date = 2025-02-01
 description = "Chess - The Essence of Strategy in 64 Squares"
+date = 2025-02-01
 tags = [
     "philosophy",
     "games",

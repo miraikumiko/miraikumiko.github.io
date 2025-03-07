@@ -4,11 +4,21 @@ menu: "main"
 weight: 2
 ---
 
-![](/images/gallery/17.jpg)
+![L'Estartit — Bus stop](/images/gallery/22.jpg)
 
-![](/images/gallery/16.jpg)
+![L'Estartit — Bus stop](/images/gallery/21.jpg)
 
-![Me](/images/gallery/15.jpg)
+![Torroella de Montgrí — Torre de lex Bruixes](/images/gallery/20.jpg)
+
+![Torroella de Montgrí — Leafless trees](/images/gallery/19.jpg)
+
+![Torroella de Montgrí — Lane](/images/gallery/18.jpg)
+
+![L'Estartit — Light moon](/images/gallery/17.jpg)
+
+![L'Estartit — Meda Gran & Meda Petita](/images/gallery/16.jpg)
+
+![Thinkpad X260 on my legs](/images/gallery/15.jpg)
 
 ![](/images/gallery/14.jpg)
 

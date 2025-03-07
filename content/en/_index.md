@@ -4,47 +4,10 @@ menu: "main"
 weight: 1
 ---
 
-# Web Development
+# Introduction
 
-Hihi^^
+Hello, hello! My name is Ada, let's get acquainted \o/
 
-I make minimalistic sites 🫸✨🫷
+I am a Python web developer, Linux engineer and system administrator. I love to travel, make new acquaintances with interesting people, play chess. I provide a service for creating static sites for a nominal fee, here are [examples](https://github.com/miraikumiko) of my work.
 
-Briefly about me: System administrator, Linux engineer, Python programmer, full-stack web developer.
-
-I don't remember my work experience(<br>
-~5 years
-
-Currently I'm laying out websites from scratch or using the static generator Hugo.
-
-The price for a static site with several pages is $50.
-
-The price for more complex sites is discussed in person)
-
-Here are my example works:
-
-## Beauty salon
-
-[Live Demo](https://mk-beauty-salon.netlify.app)
-
-![Beauty Salon](/images/beauty-salon.webp "Beauty salon")
-
-## Corp site
-
-![Corp site](/images/corp.webp "Corp site")
-
-## Portfolio
-
-![Portfolio](/images/portfolio.webp "Portfolio")
-
-## Gallery
-
-[Live Demo](https://mk-gallery.netlify.app)
-
-![Gallery](/images/gallery.webp "Gallery")
-
-## Link Tree
-
-[Live Demo](https://mk-link-tree.netlify.app)
-
-![Link Tree](/images/link-tree.webp "Link tree")
+Here I blog and write articles in which I share my own experience. In addition, I have a [microblog](https://cr8r.gg/@miraikumiko) in which I write about everything.

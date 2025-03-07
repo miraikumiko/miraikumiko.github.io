@@ -1,3 +1,10 @@
 body {
     background-color: black;
 }
+
+.title div {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 19.92px 0 19.92px 0;
+}

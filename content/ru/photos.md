@@ -1,5 +1,5 @@
 ---
-title: "Gallery"
+title: "Photos"
 menu: "main"
 weight: 2
 ---

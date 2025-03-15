@@ -21,4 +21,4 @@ Desafortunadamente, la puesta en marcha resultó demasiado costosa y el negocio 
 
 ![Hosting](/images/hosting.webp)
 
-Ahora ofrezco mis servicios de creación de sitios web para pequeñas empresas, así que ya sabes a quién [contactar](/contacts)^^
+Ahora ofrezco mis servicios de creación de sitios web para pequeñas empresas, así que ya sabes a quién contactar^^

@@ -21,4 +21,4 @@ Unfortunately, the startup turned out to be too expensive and the business itsel
 
 ![Hosting](/images/hosting.webp)
 
-Now I offer my services in creating websites to small businesses, so you know who to [contact](/contacts)^^
+Now I offer my services in creating websites to small businesses, so you know who to contact^^

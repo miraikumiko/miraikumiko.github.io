@@ -62,20 +62,7 @@ Es importante señalar que este tiempo es para las jugadas de un jugador individ
 Existen muchísimas aperturas, y es imposible aprenderlas todas, pero recomiendo estudiar el [gambito de dama](https://lichess.org/study/topic/Queen's%20Gambit/popular) y la [defensa francesa](https://lichess.org/study/topic/French%20Defense/popular), ya que se pueden jugar contra cualquier disposición. Estas me ayudaron a subir mi rating de cero a +1500 en solo cuatro meses.
 
 No recomiendo para nada que los principiantes jueguen e4. Primero, es una jugada a la que los negros están más preparados. En segundo lugar, los negros tienen muchas opciones de respuesta con variaciones interminables. Por las mismas razones, no recomiendo jugar e5 en respuesta a e4.
-
-
-## Títulos FIDE
-
-GM (Gran Maestro) – +2500<br>
-IM (Maestro Internacional) – 2400-2499<br>
-FM (Maestro FIDE) – 2300-2399<br>
-CM (Candidato a Maestro FIDE) – 2200-2299<br>
-Candidato a Maestro Deportivo – 2000-2199<br>
-Primer Grado – 1800-1999<br>
-Segundo Grado – 1600-1799<br>
-Tercer Grado – 1400-1599<br>
-
-Para obtener los títulos de Gran Maestro e Internacional, se deben cumplir tres normas correspondientes. Para los demás títulos, basta con alcanzar el rating necesario jugando en torneos oficiales FIDE.
+ara obtener los títulos de Gran Maestro e Internacional, se deben cumplir tres normas correspondientes. Para los demás títulos, basta con alcanzar el rating necesario jugando en torneos oficiales FIDE.
 
 
 ## ¿Para qué?

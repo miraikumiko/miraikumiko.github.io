@@ -64,20 +64,6 @@ There are many openings, and it is impossible to learn them all, but I recommend
 I strongly advise beginners not to play e4. First of all, it’s a move that Black is most prepared for. Secondly, Black has many response options with endless variations. For the same reasons, I also advise against playing e5 in response to e4.
 
 
-## FIDE Titles
-
-GM (Grandmaster) – +2500<br>
-IM (International Master) – 2400-2499<br>
-FM (FIDE Master) – 2300-2399<br>
-CM (Candidate Master) – 2200-2299<br>
-Candidate for Master of Sports – 2000-2199<br>
-First Class – 1800-1999<br>
-Second Class – 1600-1799<br>
-Third Class – 1400-1599<br>
-
-To achieve the Grandmaster and International Master titles, one must achieve three corresponding norms. For all other titles, it is enough to reach the required rating by playing in official FIDE tournaments.
-
-
 ## For what?
 
 Chess is primarily a sport. And so, all the benefits that sport offers are relevant for chess as well. Your success depends on four pillars: strategy, calculation, mnemonics, and psychology. It’s not only about the moves you make, but also how you make them. The speed at which you make them, whether you show your opponent confidence, making them spend more time on calculations, allowing you to think using their time.

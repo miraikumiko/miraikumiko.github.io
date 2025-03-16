@@ -1,0 +1,27 @@
++++
+title = "The Decline of Philosophy and Religion"
+description = "What's next?"
+date = 2025-03-17
+tags = [
+    "philosophy",
+    "religion"
+]
++++
+
+The philosophical crisis has been going on since the beginning of the 20th century. The last century was eventful: wars, socialism, terrible working conditions that people had to endure 12 hours a day and the philosophy of existentialism looking for a way to exist in this terrible world. Subsequently, it took the form of cyberpunk. The dystopias of that time were written under the prism of hard times, Americans saw their future as disappointing, especially against the backdrop of the economic miracle in Japan, hence the geisha on the banner in «Blade Runner» (1982).
+
+Often, the technical illiteracy of humanities scholars, despite their deep knowledge in their field, affects issues related to AI. At the moment, these are complex algorithms using data from almost the entire Internet and taking into account user feedback. Their task is to give a statistically correct answer. No more, no less. Neural networks will never reach the “intelligence”, albeit artificial, that will solve all the problems of humanity. My opinion is based on the thesis that people do not have problems in a global sense. There are only tasks that it must solve and will solve, as it has always been. One form of life replaced another: unicellular, multicellular, vertebrates, amphibians, reptiles, mammals and so on up to Homo sapiens, which by the way arose 300000 years ago, and who will come after him? And how long will this last?
+
+Sunset implies dawn. Simply put, when work is not going well, you need to take a break and do something else. Humanity has been looking for its ideology for a very long time, in my opinion even longer than necessary, turning a blind eye to specific problems that were right under its nose. And now that culture has exhausted itself, when everything new is a cheap carbon copy in a fashionable wrapper, which with each iteration becomes more and more rotten, I want to ask: Aren't you tired of it? Remember the last time you watched something truly worthwhile, something that turned your understanding of the world inside out, made you experience a storm of emotions, gave your synapses food for thought for the coming years?
+
+> A copy is just an identical image, a single virus can destroy the original along with the copies and then, copying does not lead to diversity and originality. Life perpetuates itself through diversity, this includes the ability to sacrifice itself if necessary, cells repeat the process of degeneration and regeneration until one day they die. Having destroyed an entire block of memory, only genes remain. Why repeat this cycle? — To survive. A static system is not viable.
+
+The world is dynamic, there is no intermediate state of rest in it, if you do not develop, you degrade.
+
+For me, the most important thing in any work is its semantic load and only then beautiful speech patterns, camera work, cinematic language and so on. Because this is the only thing that makes a work unique. Structure, plot, character types, their motivation, historical era, genre — things are disassembled and copied. There is an expression a book is better than a movie. This is true not so much because the reader himself draws a picture in his imagination, but because of the limitations of cinema. If they don't write good books, then you shouldn't be surprised at all by the trashy Netflix series.
+
+Hence the abuse of biblical stories by everyone and everywhere, from a book that is more than 3000 years old, yes, yes. I enjoyed reading the sutras and have a positive attitude towards Buddhism and yoga, but now it looks more like an attraction for the rich, and Christian churches — like funeral services. Religion is heavily profaned and most often it is criticized by people who are absolutely ignorant of it, but even so, how do you imagine the religious faith of the future? I wonder, when people will walk around with cyber implants in their heads, is it possible to download enlightenment from the head of a practicing yogi or are the sly ones parrying this by saying that it is in the macrocosm and the connection to it is carried out via SSH? And after all, if there is no Allah, then who created the Big Bang?)
+
+Lack of originality leads to widespread infantilism in all industries. There are so many incompetent slobs these days that they can't even make soy sauce caps. But seriously, the same bureaucracy that requires every person to have toilet paper, sorry, a passport that any native can draw. At the same time, if a law-abiding citizen loses it while abroad, he will have to return to his homeland, where martial law is in effect. Just so that he can be given a new piece of toilet paper with a printed photo, name and signature. Or take the forced SMS verification in banks, established at the legislative level, which is highly questionable in terms of cybersecurity, besides, it is simply inconvenient and cannot be turned off. All these are formalities that are not just useless, but harmful, and no one is in a hurry to get rid of them. If humanity has forgotten how to make lids for soy sauce or even just regular wooden chairs on four legs without wheels and crap, then what kind of geopolitics can we talk about? We won't cook porridge like that. First lids, then chairs, and then we'll see.
+
+![Ghost in the Shell](/images/ghost_in_the_shell.webp)

@@ -49,8 +49,8 @@
   Simply place a custom_body.html into
   your local /layouts/partials-directory -->
   {{- partial "custom_body.html" . -}}
-  {{ $analyticsJS := resources.Get "js/analytics.js" | resources.Minify }}
-  <script type="module" src="{{ $analyticsJS.RelPermalink }}"></script>
+  <!-- {{ $analyticsJS := resources.Get "js/analytics.js" | resources.Minify }}
+  <script type="module" src="{{ $analyticsJS.RelPermalink }}"></script> -->
 </body>
 
 </html>

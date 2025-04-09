@@ -1,6 +1,6 @@
 +++
 title = "Transfer files via Bluetooth in the terminal"
-description = "Transfer files via Bluetooth in terminal"
+description = "Transfer files via Bluetooth in the terminal"
 date = 2025-04-09
 tags = [
     "tech",

@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://miraikumiko.github.io"
+baseURL = "https://miraikumiko.com"
 theme = "hugo-bearcub"
 copyright = "Mirai Kumiko (CC BY 4.0)"
 defaultContentLanguage = "en"
